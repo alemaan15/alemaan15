@@ -1,9 +1,22 @@
 ## Hi there, I'm Adrian 👋
 A passionate developer focused on building solid backend systems and scalable applications.
 
-# 💫 About Me:
+### 👨‍💻 About Me as a Developer
+
+I'm a **Full Stack Developer** with a strong focus on **frontend development**.  
+I have professional experience building modern web applications using:
+
+- 🧱 **Frontend**: Angular, React, TypeScript, HTML, CSS, SCSS  
+- ⚙️ **Backend**: Node.js (NestJS, Express), MongoDB  
+- ☁️ **Cloud & DevOps**: Docker, AWS (Learning)
+- 🧠 I'm also learning about **AI pipelines** and preparing for the **AWS Cloud Practitioner certification**.
+
+I enjoy designing clean architectures, writing maintainable code, and continuously improving as a developer.
+
+### 🧩 About Me
+
 ### 🛠 Currently working on 
-Building a room/apartment booking management app using Node.js + MongoDB, with a microservices architecture and free-tier AWS services integration..<br><br>
+Building a room/apartment booking management app using Node.js + MongoDB, with a monolite architecture and free-tier AWS services integration..<br><br>
 
 ### 🤝 I’m looking to collaborate on
 Open source backend projects focused on clean architecture, NestJS, Spring Boot, or backend best practices.<br><br>
