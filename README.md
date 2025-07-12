@@ -1,6 +1,4 @@
 ## Hi there, I'm Adrian 👋
-A passionate developer focused on building solid backend systems and scalable applications.
-
 ### 👨‍💻 About Me as a Developer
 
 I'm a **Full Stack Developer** with a strong focus on **frontend development**.  
