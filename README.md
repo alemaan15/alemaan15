@@ -11,15 +11,15 @@ I have professional experience building modern web applications using:
 
 I enjoy designing clean architectures, writing maintainable code, and continuously improving as a developer.
 
-### 🧩 About Me
+### About Me
 
-### 🛠 Currently working on 
+### Currently working on 
 Building a room/apartment booking management app using Node.js + MongoDB, with a monolite architecture and free-tier AWS services integration..<br><br>
 
-### 🤝 I’m looking to collaborate on
+### I’m looking to collaborate on
 Open source backend projects focused on clean architecture, NestJS, Spring Boot, or backend best practices.<br><br>
 
-### 🌱 I’m currently learning
+### I’m currently learning
 Currently learning AWS (preparing for the Cloud Practitioner certification), exploring AI pipelines, and continuously improving my backend development skills.
 
 <div id="user-content-toc">
