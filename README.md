@@ -1,17 +1,23 @@
 ## Hi there, I'm Adrian 👋
 ### 👨‍💻 About Me as a Developer
 
-I'm a **Full Stack Developer** with a strong focus on **frontend development**.  
+I'm a **Full Stack Developer** with a strong focus on **frontend development**, currently growing towards a **backend & cloud-oriented profile**.
+
 I have professional experience building modern web applications using:
 
 - 🧱 **Frontend**: Angular, React, TypeScript, HTML, CSS, SCSS  
-- ⚙️ **Backend**: Node.js (NestJS, Express), MongoDB  
-- ☁️ **Cloud & DevOps**: Docker, AWS (Learning)
-- 🧠 I'm also learning about **AI pipelines** and preparing for the **AWS Cloud Practitioner certification**.
+- ⚙️ **Backend**: Node.js (NestJS, Express), MongoDB, Spring Boot  
+- ☁️ **Cloud & DevOps**: AWS, Docker  
+- 🧠 Interested in **cloud architecture** and **AI pipelines**
 
 I enjoy designing clean architectures, writing maintainable code, and continuously improving as a developer.
 
-### About Me
+---
+
+### 🏅 Certifications
+- ☁️ **AWS Certified Cloud Practitioner**
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/0e0145d9-8337-4412-acb0-19becfe4c3cd/public_url)
+---
 
 ### Currently working on 
 Building a room/apartment booking management app using Node.js + MongoDB, with a monolite architecture and free-tier AWS services integration..<br><br>
@@ -20,7 +26,7 @@ Building a room/apartment booking management app using Node.js + MongoDB, with a
 Open source backend projects focused on clean architecture, NestJS, Spring Boot, or backend best practices.<br><br>
 
 ### I’m currently learning
-Currently learning AWS (preparing for the Cloud Practitioner certification), exploring AI pipelines, and continuously improving my backend development skills.
+Deepening my knowledge in **AWS**, backend architecture, and exploring **AI pipelines**, with a strong focus on scalable and production-ready systems.
 
 <div id="user-content-toc">
   <ul align="center">
